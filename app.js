@@ -87,19 +87,19 @@ const pricingInfo = {
             <p>Can be made in an icon style.</p>
             <p>You can pick the size of the canvas.</p>
         `,
-        base: "€28",
-        shading: "+€3",
+        base: "€25",
+        shading: "+€5",
         additional: "+25%"
     },
     "Halfbody": {
         description: `<p>A drawing of your character from the head to the waist/hips. Shows about 60% of your character.</p>`,
-        base: "€38",
+        base: "€35",
         shading: "+€5",
         additional: "+50%"
     },
     "Fullbody": {
         description: `<p>A drawing of your character, usually more than 70% of the body showing.</p>`,
-        base: "€48",
+        base: "€45",
         shading: "+€5",
         additional: "+50%"
     },
